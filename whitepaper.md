@@ -10,7 +10,7 @@ In the simplest of terms, a Validator on the Ethereum Network (Proof of Stake Ch
 To run a Validator, you are required to run 3 different pieces of software as close to 100% uptime as possible. These include: an execution client, a consensus client, and a validator. You will also be required to lock and stake 32 ETH as collateral for the ethical operation of your Validator. In the event of good attestations, your Validator will earn ETH from each proposed block. In the event of malpractice, this ETH may be penalized and/or slashed based on the severity of the incident. As Validators ensure the security and accuracy of the Ethereum Network, they are the most important component to its operation. 
 
 
-##Why do we need BPL Vaidator Pools ?
+## Why do we need BPL Vaidator Pools ?
 
 As stated previously, the main reason we started Ethereum Bounty Protocol is that we understand most users in Decentralized Finance and the crypto space do not have a spare 32 ETH lying around that they can lock up to operate a Validator.
 The issue with this is that centralized entities are able to offer staking to their users based on their existing economies of scale.
