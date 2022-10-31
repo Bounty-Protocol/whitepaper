@@ -1,4 +1,4 @@
-# whitepaper
+# whitepaper V1.0.0
 
 <a name="readme-top"></a>
 
